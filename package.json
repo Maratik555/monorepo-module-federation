@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "keywords": ["webpack", "monorepo", "federation"],
   "author": "Marat",
+  "private": "true",
   "license": "ISC",
   "workspaces": [
     "packages/*",
